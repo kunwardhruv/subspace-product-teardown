@@ -20,7 +20,7 @@ product usage and Play Store review analysis.
 
 ## Report
 
-📄 [View Full Teardown (PDF)](./Subspace_Product_Teardown_Dhruv_Singh.docx)
+📄 [View Full Teardown (PDF)](./Subspace_Product_Teardown_Dhruv_Singh_1.pdf)
 
 ## Frameworks Used
 - Porter's Five Forces
